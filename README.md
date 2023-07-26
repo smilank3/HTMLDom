@@ -184,3 +184,6 @@ elment list : p
 > ./main
 > make test. #run tests
 ```
+
+## License
+  Copyright (c) smilank3 GNU GENERAL PUBLIC LICENSE
